@@ -1,3 +1,4 @@
+原文：https://github.com/latexstudio/CUMCMThesis，在此基础上修复了Mac字体不兼容问题，适配了vs code ide可搭载cursor使用
 
 ## 全国大学生数学建模竞赛 LaTeX 论文模板  
 

@@ -155,10 +155,14 @@ Just choose `xelatex', no `pdflatex' or `latex' and so on.}
 \setmainfont{Times New Roman}
 %\setmonofont{Courier New}
 \setsansfont{Arial}
-\setCJKfamilyfont{kai}[AutoFakeBold]{simkai.ttf}
+\setCJKfamilyfont{kai}[AutoFakeBold]{STKaiti}
 \newcommand*{\kai}{\CJKfamily{kai}}
-\setCJKfamilyfont{song}[AutoFakeBold]{SimSun}
+\setCJKfamilyfont{song}[AutoFakeBold]{Songti SC}
 \newcommand*{\song}{\CJKfamily{song}}
+\setCJKfamilyfont{hei}[AutoFakeBold]{Heiti SC}
+\renewcommand*{\heiti}{\CJKfamily{hei}}
+\setCJKfamilyfont{fs}[AutoFakeBold]{STFangsong}
+\renewcommand*{\fangsong}{\CJKfamily{fs}}
 
 \renewcommand\normalsize{%
 	\@setfontsize\normalsize{12.05}{14.45}%
